@@ -1,6 +1,9 @@
 /*--------------------------------------------------------------
 # Team Section
 --------------------------------------------------------------*/
+.team .row .col-xl-3{
+  margin-top: 20px;
+}
 .team .team-team .team-img {
   border-radius: 8px;
   overflow: hidden;

@@ -1,11 +1,21 @@
 /*--------------------------------------------------------------
 # about Section
 --------------------------------------------------------------*/
-.about h1 {
-    margin: 0;
-    font-size: 48px;
+.about .container{
+  background: url(../../fastlane-assets/tindahan.jpg)no-repeat;
+  height: 550px;
+  background-position: center center;
+  
+}
+.about .container h5 {
     font-weight: 700;
-    color: #012970;
+    color: #4151f4;
+    background-color: #fff;
+    opacity: 75%;
+    border-radius: 10px;
+    margin: 0;
+    padding: 20px;
+
   }
   .about h2 {
     color: #444444;
